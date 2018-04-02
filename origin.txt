@@ -1,0 +1,32 @@
+Uri: http://www.jasp8r.net/
+File Name: C:\Users\Ream\Documents\Websites\www.jasp8r.net\index.html
+Content Type: text/html
+
+Uri: http://www.jasp8r.net/css/style.css
+File Name: C:\Users\Ream\Documents\Websites\www.jasp8r.net\css\style.css
+Content Type: text/css
+
+Uri: http://www.jasp8r.net/css/animate.css
+File Name: C:\Users\Ream\Documents\Websites\www.jasp8r.net\css\animate.css
+Content Type: text/css
+
+Uri: http://www.jasp8r.net/js/jquery.js
+File Name: C:\Users\Ream\Documents\Websites\www.jasp8r.net\js\jquery.js
+Content Type: application/javascript
+
+Uri: http://www.jasp8r.net/js/marquee.js
+File Name: C:\Users\Ream\Documents\Websites\www.jasp8r.net\js\marquee.js
+Content Type: application/javascript
+
+Uri: http://www.jasp8r.net/js/main.js
+File Name: C:\Users\Ream\Documents\Websites\www.jasp8r.net\js\main.js
+Content Type: application/javascript
+
+Uri: http://www.jasp8r.net/icon.ico
+File Name: C:\Users\Ream\Documents\Websites\www.jasp8r.net\icon.ico
+Content Type: image/x-icon
+
+Uri: http://www.jasp8r.net/media/music.mp4
+File Name: C:\Users\Ream\Documents\Websites\www.jasp8r.net\media\music.mp4
+Content Type: video/mp4
+
