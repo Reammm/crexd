@@ -1,7 +1,7 @@
 body
 {
   font-family: times New Roman;
-  color: #FAAFBE;
+  color: 	#9932CC;
   text-shadow: 1px 1px 1px rgba(0,0,0,255);
 }
 
@@ -53,7 +53,7 @@ input[type=range]::-webkit-slider-thumb {
   height: 7px;
   width: 15px;
   border-radius: 14px;
-  background: #FAAFBE;
+  background: 	#9932CC;
   cursor: pointer;
   -webkit-appearance: none;
   margin-top: 0px;
@@ -77,7 +77,7 @@ input[type=range]::-moz-range-thumb {
   height: 7px;
   width: 15px;
   border-radius: 14px;
-  background: #FAAFBE;
+  background: 	#9932CC;
   cursor: pointer;
 }
 input[type=range]::-ms-track {
@@ -108,7 +108,7 @@ input[type=range]::-ms-thumb {
   height: 7px;
   width: 15px;
   border-radius: 14px;
-  background: #FAAFBE;
+  background: 	#9932CC;
   cursor: pointer;
 }
 input[type=range]:focus::-ms-fill-lower {
@@ -129,7 +129,7 @@ a {
 }
 
 a:hover {
-    color: #FF8040;
+    color: #000000;
 }
 
 #marquee {
@@ -180,19 +180,19 @@ a:hover {
     @keyframes colorchange
     {
       0%   {COLOR: red;}
-      25%  {COLOR: yellow;}
+      0%  {COLOR: yellow;}
       50%  {COLOR: blue;}
-      75%  {COLOR: green;}
-      100% {COLOR: red;}
+      0%  {COLOR: green;}
+      50% {COLOR: red;}
 	  
     }
 
     @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
     {
       0%   {COLOR: red;}
-      25%  {COLOR: yellow;}
+      0%  {COLOR: yellow;}
       50%  {COLOR: blue;}
-      75%  {cOLOR: green;}
-      100% {COLOR: red;}
+      0%  {cOLOR: green;}
+      50% {COLOR: red;}
     }
 }
