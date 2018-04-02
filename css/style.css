@@ -1,7 +1,7 @@
 body
 {
   font-family: times New Roman;
-  color: 	#9932CC;
+  color: 	#000000;
   text-shadow: 1px 1px 1px rgba(0,0,0,255);
 }
 
@@ -177,22 +177,22 @@ a:hover {
 	  
     }
 
-    @keyframes colorchange
+   @keyframes colorchange
     {
       0%   {COLOR: red;}
-      0%  {COLOR: yellow;}
+      25%  {COLOR: yellow;}
       50%  {COLOR: blue;}
-      0%  {COLOR: green;}
-      50% {COLOR: red;}
+      75%  {COLOR: green;}
+      100% {COLOR: red;}
 	  
     }
 
     @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
     {
       0%   {COLOR: red;}
-      0%  {COLOR: yellow;}
+      25%  {COLOR: yellow;}
       50%  {COLOR: blue;}
-      0%  {cOLOR: green;}
-      50% {COLOR: red;}
+      75%  {cOLOR: green;}
+      100% {COLOR: red;}
     }
 }
