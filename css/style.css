@@ -180,9 +180,9 @@ a:hover {
    @keyframes colorchange
     {
       0%   {COLOR: red;}
-      0%  {COLOR: yellow;}
-      0%  {COLOR: blue;}
-      0%  {COLOR: green;}
+      25%  {COLOR: yellow;}
+      50%  {COLOR: blue;}
+      75%  {COLOR: green;}
       100% {COLOR: red;}
 	  
     }
@@ -190,9 +190,9 @@ a:hover {
     @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
     {
       0%   {COLOR: red;}
-      0%  {COLOR: yellow;}
-      0%  {COLOR: blue;}
-      0%  {cOLOR: green;}
+      25%  {COLOR: yellow;}
+      50%  {COLOR: blue;}
+      75%  {cOLOR: green;}
       100% {COLOR: red;}
     }
 }
