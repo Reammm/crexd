@@ -21,6 +21,21 @@ $(document).ready(function() {
             plink: 'http://steamcommunity.com/id/aprilbtw'
 
         },
+		{
+            name: 'cammy',
+            plink: 'https://www.xboxgamertag.com/search/Cammy003/'
+
+        },
+		{
+            name: 'meinoo',
+            plink: 'https://www.xboxgamertag.com/search/Meinoo'
+
+        },
+		{
+            name: 'butttons',
+            plink: 'https://www.xboxgamertag.com/search/Buttttons'
+
+        },
 		];    
 	
     for (var i in plinks) {
