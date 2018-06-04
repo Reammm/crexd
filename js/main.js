@@ -9,8 +9,8 @@ $(document).ready(function() {
             plink: 'http://steamcommunity.com/id/radarfps'
        },       
 	   {
-            name: 'euan',
-            plink: 'http://steamcommunity.com/id/euanbtw'
+            name: 'hking',
+            plink: 'https://steamcommunity.com/id/hking-/'
         },
 		{
             name: 'skies',
@@ -24,16 +24,6 @@ $(document).ready(function() {
 		{
             name: 'cammy',
             plink: 'https://www.xboxgamertag.com/search/Cammy003/'
-
-        },
-		{
-            name: 'meinoo',
-            plink: 'https://www.xboxgamertag.com/search/Meinoo'
-
-        },
-		{
-            name: 'butttons',
-            plink: 'https://www.xboxgamertag.com/search/Buttttons'
 
         },
 		];    
